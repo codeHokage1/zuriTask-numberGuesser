@@ -10,12 +10,12 @@ The game is very easy to play.
 - You get 1 point if you get the answer correctly and move up by 1 level
 - If you are wrong, the program displays your level and the points you have gathered
 
-## How to use:
+## How to play:
 - Go directly to the repl to run the code: https://replit.com/@FarhanSodiq/zurTask-numberGuesser
 - Download the *index.js* file up in the code section and run in your local computer with :
   ```
   node index.js
   ```
   
-Be free to open and issue if you have any suggestions on ways to make this game better. I'd be glad to learn from you! 🙏
+📢: Be free to open an issue if you have any suggestions on ways to make this game better. I'd be glad to learn from you! 🙏
 
