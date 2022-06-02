@@ -1,5 +1,5 @@
 // Function to generate random numbers between 1 and given parameter
-function randomInRange(x){
+const randomInRange = x => {
   return Math.floor(Math.random() * x) + 1;
 }
 
